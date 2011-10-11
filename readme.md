@@ -1,4 +1,4 @@
-** Cakephp Products Plugin **
+## Cakephp Products Plugin ##
 
 The Products plugin is a building-block plugin that should be the de-facto standard for products for use mainy with the CakeDC Cart plugin, but you may be able to use it in your own applications with minimal modification. This plugin requires the CakeDC search plugin, and the Bmilesp file_system plugin, both also available on gitub. Also requires jQuery for the admin and product element rollover effects.
 
